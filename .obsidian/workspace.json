@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "5b140b16f760369a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d55230616c33958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74f48089ddaa7817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ShlepaRun.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3b44c7212b2407c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d99a641ed9e7caa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52c083b7ae39efed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc1dcc30f9c2c441",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed3ebc2b5d358ffc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "edd98d5e240c6068",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "330f3fda1eadb33a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea4b8fe925c4f620",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3fdc98cb73ee011",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ShlepaRun.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "eae1a34c1fdb8c3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ShlepaRun.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "139d2f0225b81ac2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "235095fc664034e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ShlepaRun.md"
+              }
+            }
+          },
+          {
+            "id": "0f7ed5c7d76398e4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-spaced-repetition:Повторить карточки": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "74f48089ddaa7817",
+  "lastOpenFiles": [
+    "Используемые программы.md",
+    "Основная концепция игры (описание).md",
+    "Основные понятия ака FAQ.md",
+    "Ссылки на материалы из стоков.md",
+    "Ссылки на ресурсы по обучению.md",
+    "ShlepaRun.md",
+    "Хранилище Понятий/Задачи (Расписание).md",
+    "База данных/Закладки/Команда.md",
+    "База данных/Обучение/Демидович Краткий курс математического анализа.md",
+    "База данных/Задачи (Все).md",
+    "База данных/Закладки/Пить таблетки.md",
+    "База данных/Обучение/Китайский язык/Китайский язык. Грамматика.md",
+    "README.md",
+    "Без названия.canvas",
+    "База данных/Обучение/Китайский язык/Китайский язык. Предложения.md",
+    "База данных/Обучение/Китайский язык/Китайский язык. Словарь.md",
+    "Хранилище Понятий/Задачи (Архив).md",
+    "База данных/Обучение/Китайский язык/Карточки Словарь.md",
+    "Хранилище Понятий/wget (для скачивания сайтов).md",
+    "Хранилище Понятий/Статьи/thehomelab/docker.md",
+    "База данных/Отрывочное/Фонд золотых цитат.md",
+    "Хранилище Понятий/AutoHotKeys.md",
+    "База данных/Обучение/КП-11/1 курс/КП-11 курс-1 математика.md",
+    "Хранилище Понятий/Видеоредакторы.md",
+    "Хранилище Понятий/Библиотеки для программирования.md",
+    "Хранилище Понятий/Ассемблер.md",
+    "Шаблоны/шаблон для картинок.md",
+    "КП-11 курс-2 Практика Задания и Отчет.html",
+    "База данных/Обучение/КП-11/2 курс/КП-11 курс-2 Практика Задания и Отчет.html",
+    "Ассеты/pdf/Game Programming Algorithms and Techniques_ A Platform-Agnostic Approach (Game Design) 1st Edition - Sanjay Madhav.pdf",
+    "База данных/канвас.canvas",
+    "test.csv",
+    "Текстовый документ.txt",
+    "media",
+    "Ассеты/Картинки/Рецепты.0000-0000-0000-0001.jpg",
+    "Ассеты/Картинки/Аниме-Лист.0000-0000-0000-0001.png",
+    "Ассеты/Картинки/0000-0000-0000-0004 1.jpg",
+    "Ассеты/Картинки/Рецепты.0000-0000-0000-0002.jpg",
+    "Ассеты/Картинки/Рецепты.0000-0000-0000-0006.jpg",
+    "Ассеты/Картинки/Рецепты.0000-0000-0000-0005.jpg",
+    "Ассеты/Картинки/Рецепты.0000-0000-0000-0004.jpg",
+    "Ассеты/Картинки/Рецепты.0000-0000-0000-0003.jpg",
+    "Ассеты/Картинки/Рецепты.0000-0000-0000-0011.jpg",
+    "Ассеты/Картинки/Рецепты.0000-0000-0000-0010.jpg",
+    "LXC",
+    "Context/my-oblivion-storage.mdb",
+    "Context/test.mdb",
+    "Context/spacesLastSync.log"
+  ]
+}
